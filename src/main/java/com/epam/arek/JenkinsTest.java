@@ -6,5 +6,6 @@ package com.epam.arek;
 public class JenkinsTest {
     public static void main(String[] argv) {
         System.out.println("Jenkins Test");
+        System.out.println("Jenkins Test2");
     }
 }
