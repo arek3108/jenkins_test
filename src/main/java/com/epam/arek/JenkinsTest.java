@@ -7,5 +7,6 @@ public class JenkinsTest {
     public static void main(String[] argv) {
         System.out.println("Jenkins Test");
         System.out.println("Jenkins Test2");
+        System.out.println("Jenkins Test3");
     }
 }
